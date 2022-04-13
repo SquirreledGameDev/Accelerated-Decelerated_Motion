@@ -1,4 +1,4 @@
-# Accelerated and Decelerated Motion
+# Accelerated and Decelerated Motion 
 
 No video yet
 </br>
